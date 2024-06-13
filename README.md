@@ -11,8 +11,8 @@ VideoReTalking-HQ, an enhaced system to edit the faces of a real-world talking h
 ```
 git clone https://github.com/ShmuelRonen/VideoReTalking-HQ.git
 cd VideoReTalking-HQ
-conda create -n video_retalking python=3.8
-conda activate video_retalking
+conda create -n VideoReTalking-HQ python=3.8
+conda activate VideoReTalking-HQ
 pip install ffmpeg
 
 # For your CUDA version please follow the instructions from https://pytorch.org/get-started/previous-versions/
