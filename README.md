@@ -9,7 +9,7 @@ VideoReTalking-HQ, an enhaced system to edit the faces of a real-world talking h
 
 ## Installation steps
 ```
-https://github.com/ShmuelRonen/VideoReTalking-HQ.git
+git clone https://github.com/ShmuelRonen/VideoReTalking-HQ.git
 cd VideoReTalking-HQ
 conda create -n video_retalking python=3.8
 conda activate video_retalking
